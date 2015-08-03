@@ -1,0 +1,3 @@
+props:
+  unencrypted: some unencrypted value
+  encrypted: some encrypted value
