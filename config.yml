@@ -1,3 +1,2 @@
 remote:
-  client:
-    password: '{cipher}020f865cd025e3e591092cf2e020924aad33f52d2fb5a14d6ba764073eba779f'
+  value: testing
