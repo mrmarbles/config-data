@@ -1,3 +1,4 @@
 props:
-  unencrypted: unencrypted value
-  encrypted: encrypted value
+  unencrypted: bleh
+  encrypted: blah
+  test: testing
